@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: ffdd1dd0-e517-41e0-9fd2-a3145b4d2a0f
-  WEBAPP-NAME: eshoponweb-webapp-akhila
+  WEBAPP-NAME: eshoponweb-webapp-akhila123
 
 
 jobs:
